@@ -12,8 +12,6 @@ jobs:
 
    - name: Checkstyle
      run: mvn checkstyle:checkstyle 
-
-// setup java 11 to be default
   
    - name: setup 
      uses: actions/setup-java@v3
