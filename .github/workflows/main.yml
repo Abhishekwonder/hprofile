@@ -35,4 +35,4 @@ jobs:
         -Dsonar.junit.reportsPath=target/surefire-reports/
         -Dsonar.jacoco.reportsPath=target/jacoco.exec
         -Dsonar.java.checkstyle.reportsPath=target/checkstyle-result.xml
-        -Dsonar.java.binaries=target/test-classes/com/visualpath/account
+        -Dsonar.java.binaries=target/test-classes/com/visualpath/account1
